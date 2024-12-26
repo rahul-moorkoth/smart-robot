@@ -15,6 +15,6 @@ Paste your IFTTT url in Blocks section of mit app inventor.
 Youtube video link:
 https://youtu.be/Mc1hqAeF-lQ
 Research paper link:
-http://www.ijariie.com/AdminUploadPdf/SMART_ROBOT_USING_RASPBERRY_PI_AND_NODEMCU_ijariie8213.pdf
+https://drive.google.com/file/d/1cvbOgeIrd-nNhEfWa0FvMJFIEV7nuk7z/view
 
 Keep Supporting TECH OPEN youtube channel.
